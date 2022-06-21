@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 poatato ko bolte hai aloo , aa moor kalu
+=======
+potato ko bolte hai aloo , aa moor kalu
+>>>>>>> b1
